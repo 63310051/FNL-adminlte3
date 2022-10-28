@@ -19,7 +19,7 @@ import Heart from "./components/Sweet/Heart"
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
-      <Route path="/mid-port" element={<App />} />
+      <Route path="/FNL-adminlte3" element={<App />} />
       <Route path="/" element={<Login />} />
       <Route path="/login" element={<Login />} />
       <Route path="/app#login" element={<Login />} />
