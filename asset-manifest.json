@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FNL-adminlte3/static/css/main.a49a56f7.css",
+    "main.js": "/FNL-adminlte3/static/js/main.9d27121f.js",
+    "static/js/787.d4e73907.chunk.js": "/FNL-adminlte3/static/js/787.d4e73907.chunk.js",
+    "static/media/about.png": "/FNL-adminlte3/static/media/about.b877e0fd99a172040c9c.png",
+    "static/media/pie.jpg": "/FNL-adminlte3/static/media/pie.4b4a1d9a280862dcf96e.jpg",
+    "static/media/cookie.jpeg": "/FNL-adminlte3/static/media/cookie.ca5959ce8a0b13de1e81.jpeg",
+    "static/media/croissant.jpg": "/FNL-adminlte3/static/media/croissant.a543f6a59f1b6974c51b.jpg",
+    "static/media/minicake.jpg": "/FNL-adminlte3/static/media/minicake.8681bdb83ef5d103271d.jpg",
+    "static/media/cake.jpg": "/FNL-adminlte3/static/media/cake.91ab5cc9a18f8742421f.jpg",
+    "static/media/gummy.jpg": "/FNL-adminlte3/static/media/gummy.908360ab703bdf22428c.jpg",
+    "index.html": "/FNL-adminlte3/index.html",
+    "static/media/pre.svg": "/FNL-adminlte3/static/media/pre.d4812f51c8c80976eaab.svg",
+    "main.a49a56f7.css.map": "/FNL-adminlte3/static/css/main.a49a56f7.css.map",
+    "main.9d27121f.js.map": "/FNL-adminlte3/static/js/main.9d27121f.js.map",
+    "787.d4e73907.chunk.js.map": "/FNL-adminlte3/static/js/787.d4e73907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a49a56f7.css",
+    "static/js/main.9d27121f.js"
+  ]
+}
