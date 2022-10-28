@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FNL-adminlte3/static/css/main.a49a56f7.css",
-    "main.js": "/FNL-adminlte3/static/js/main.9d27121f.js",
+    "main.js": "/FNL-adminlte3/static/js/main.d64aba36.js",
     "static/js/787.d4e73907.chunk.js": "/FNL-adminlte3/static/js/787.d4e73907.chunk.js",
     "static/media/about.png": "/FNL-adminlte3/static/media/about.b877e0fd99a172040c9c.png",
     "static/media/pie.jpg": "/FNL-adminlte3/static/media/pie.4b4a1d9a280862dcf96e.jpg",
@@ -13,11 +13,11 @@
     "index.html": "/FNL-adminlte3/index.html",
     "static/media/pre.svg": "/FNL-adminlte3/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.a49a56f7.css.map": "/FNL-adminlte3/static/css/main.a49a56f7.css.map",
-    "main.9d27121f.js.map": "/FNL-adminlte3/static/js/main.9d27121f.js.map",
+    "main.d64aba36.js.map": "/FNL-adminlte3/static/js/main.d64aba36.js.map",
     "787.d4e73907.chunk.js.map": "/FNL-adminlte3/static/js/787.d4e73907.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a49a56f7.css",
-    "static/js/main.9d27121f.js"
+    "static/js/main.d64aba36.js"
   ]
 }
